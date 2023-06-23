@@ -6,6 +6,18 @@
         "array": "cpp",
         "string": "cpp",
         "string_view": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "deque": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "forward_list": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "valarray": "cpp"
     }
 }
