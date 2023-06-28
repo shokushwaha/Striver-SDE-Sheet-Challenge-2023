@@ -19,6 +19,8 @@
         "sstream": "cpp",
         "streambuf": "cpp",
         "valarray": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "random": "cpp",
+        "limits": "cpp"
     }
 }
