@@ -21,6 +21,10 @@
         "valarray": "cpp",
         "list": "cpp",
         "random": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp"
     }
 }
